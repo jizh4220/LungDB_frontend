@@ -1,0 +1,711 @@
+"","accession","DISEASE","TISSUE","age","gender","gse_alias","cells"
+"1","GSM4213824","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",1883
+"2","GSM4213825","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",3775
+"3","GSM4213826","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",2694
+"4","GSM4213827","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",1846
+"5","GSM4213828","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",1433
+"6","GSM4213829","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",1798
+"7","GSM4213830","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",1351
+"8","GSM4213831","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",2230
+"9","GSM4213832","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",3295
+"10","GSM4213833","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",3434
+"11","GSM4213834","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",1650
+"12","GSM4213835","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",3247
+"13","GSM4213836","Normal","airway epithelial (HAECs)",NA,"M","GSE134174",2118
+"14","GSM4213837","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",2627
+"15","GSM4213838","Normal","airway epithelial (HAECs)",NA,"F","GSE134174",2867
+"16","GSM5100069","Normal","BALF",NA,NA,"GSE167232",3323
+"17","GSM5100070","Normal","BALF",NA,NA,"GSE167232",5298
+"18","GSM5388411","Normal","airway distal",45,NA,"GSE178360",8972
+"19","GSM5388412","Normal","airway distal",20,NA,"GSE178360",9599
+"20","GSM5388413","Normal","airway distal",21,NA,"GSE178360",7865
+"21","GSM5604585","Normal","airway epithelial (HAECs)",NA,NA,"GSE185048",629
+"22","GSM5604586","Normal","airway epithelial (HAECs)",NA,NA,"GSE185048",1132
+"23","GSM5604587","Normal","airway epithelial (HAECs)",NA,NA,"GSE185048",999
+"24","GSM5604588","Normal","airway epithelial (HAECs)",NA,NA,"GSE185048",1348
+"25","GSM5604589","Normal","airway epithelial (HAECs)",NA,NA,"GSE185048",997
+"26","GSM5133588","COPD","peripheral lung",66,"F","GSE168191",9408
+"27","GSM5133589","COPD","peripheral lung",66,"F","GSE168191",9672
+"28","GSM5133590","COPD","peripheral lung",69,"F","GSE168191",5359
+"29","GSM5133591","COPD","peripheral lung",69,"F","GSE168191",4969
+"30","GSM5133592","COPD","peripheral lung",64,"M","GSE168191",5266
+"31","GSM5133593","COPD","peripheral lung",64,"M","GSE168191",3590
+"32","GSM5133594","COPD","peripheral lung",69,"M","GSE168191",9413
+"33","GSM5133595","Normal","peripheral lung",52,"M","GSE168191",9728
+"34","GSM5133596","Normal","peripheral lung",52,"M","GSE168191",8892
+"35","GSM5133597","Normal","peripheral lung",35,"F","GSE168191",5188
+"36","GSM5133598","Normal","peripheral lung",35,"F","GSE168191",4930
+"37","GSM5133599","Normal","peripheral lung",76,"F","GSE168191",7477
+"38","GSM5133600","Normal","peripheral lung",76,"F","GSE168191",7026
+"39","GSM5133601","Normal","proximal airway",76,"F","GSE168191",4177
+"40","GSM5133602","Normal","proximal airway",76,"F","GSE168191",4037
+"41","GSM5133603","Normal","peripheral lung",23,"M","GSE168191",6243
+"42","GSM5133604","Normal","peripheral lung",29,"F","GSE168191",9554
+"43","GSM5133605","Normal","proximal airway",54,"M","GSE168191",5508
+"44","GSM5133606","Normal","proximal airway",54,"M","GSE168191",5560
+"45","GSM4818277","non-CF","whole lung",NA,NA,"GSE159056",2294
+"46","GSM4818278","non-CF","whole lung",NA,NA,"GSE159056",9387
+"47","GSM4818279","non-CF","whole lung",NA,NA,"GSE159056",10354
+"48","GSM4818280","non-CF","whole lung",NA,NA,"GSE159056",3442
+"49","GSM4818281","non-CF","whole lung",NA,NA,"GSE159056",4497
+"50","GSM4818282","non-CF","whole lung",NA,NA,"GSE159056",5363
+"51","GSM4818283","non-CF","whole lung",NA,NA,"GSE159056",5646
+"52","GSM4818284","non-CF","whole lung",NA,NA,"GSE159056",5634
+"53","GSM4818285","non-CF","whole lung",NA,NA,"GSE159056",6367
+"54","GSM4818286","CF","whole lung",NA,NA,"GSE159056",2560
+"55","GSM4818287","CF","whole lung",NA,NA,"GSE159056",1185
+"56","GSM4818288","CF","whole lung",NA,NA,"GSE159056",5780
+"57","GSM4818289","CF","whole lung",NA,NA,"GSE159056",3690
+"58","GSM4818290","CF","whole lung",NA,NA,"GSE159056",3017
+"59","GSM4818291","CF","whole lung",NA,NA,"GSE159056",15632
+"60","GSM4818292","CF","whole lung",NA,NA,"GSE159056",4354
+"61","GSM4818293","CF","whole lung",NA,NA,"GSE159056",4403
+"62","GSM4818294","CF","whole lung",NA,NA,"GSE159056",2240
+"63","GSM4818295","CF","whole lung",NA,NA,"GSE159056",7188
+"64","GSM4818296","CF","whole lung",NA,NA,"GSE159056",4551
+"65","GSM4818297","CF","whole lung",NA,NA,"GSE159056",5603
+"66","GSM6031511","non-CF","whole lung",NA,NA,"GSE159056",8803
+"67","GSM6031512","non-CF","whole lung",NA,NA,"GSE159056",4205
+"68","GSM6031513","non-CF","whole lung",NA,NA,"GSE159056",5132
+"69","GSM6031514","CF","whole lung",NA,NA,"GSE159056",4748
+"70","GSM6031515","CF","whole lung",NA,NA,"GSE159056",6293
+"71","GSM6031516","CF","whole lung",NA,NA,"GSE159056",8938
+"72","GSM6031517","non-CF","whole lung",NA,NA,"GSE159056",5998
+"73","GSM6031518","CF","whole lung",NA,NA,"GSE159056",5100
+"74","GSM5169175","measles virus","whole lung",NA,NA,"GSE168775",5324
+"75","GSM5169176","measles virus","whole lung",NA,NA,"GSE168775",2351
+"76","GSM5169177","measles virus","whole lung",NA,NA,"GSE168775",2943
+"77","GSM5169178","measles virus","whole lung",NA,NA,"GSE168775",3831
+"78","GSM5169179","measles virus","whole lung",NA,NA,"GSE168775",3225
+"79","GSM5169180","measles virus","whole lung",NA,NA,"GSE168775",6759
+"80","GSM5169181","measles virus","whole lung",NA,NA,"GSE168775",2469
+"81","GSM5169182","measles virus","whole lung",NA,NA,"GSE168775",3841
+"82","GSM4994943","Normal","bronchial epithelial",NA,NA,"GSE164015",1107
+"83","GSM4994944","Normal","bronchial epithelial",NA,NA,"GSE164015",1227
+"84","GSM4994945","Normal","bronchial epithelial",NA,NA,"GSE164015",15449
+"85","GSM4994946","Normal","bronchial epithelial",NA,NA,"GSE164015",2401
+"86","GSM4994947","Normal","bronchial epithelial",NA,NA,"GSE164015",559
+"87","GSM4994948","Normal","bronchial epithelial",NA,NA,"GSE164015",545
+"88","GSM4994949","Normal","bronchial epithelial",NA,NA,"GSE164015",806
+"89","GSM4994950","Normal","bronchial epithelial",NA,NA,"GSE164015",1428
+"90","GSM4065876","Normal","lung fibroblast",NA,NA,"GSE137026",2930
+"91","GSM4065877","Normal","lung fibroblast",NA,NA,"GSE137026",3402
+"92","GSM4065878","Normal","lung fibroblast",NA,NA,"GSE137026",4096
+"93","GSM4065879","Normal","lung fibroblast",NA,NA,"GSE137026",4450
+"94","GSM4065880","IPF","lung fibroblast",NA,NA,"GSE137026",4812
+"95","GSM4065881","IPF","lung fibroblast",NA,NA,"GSE137026",4565
+"96","GSM4065882","IPF","lung fibroblast",NA,NA,"GSE137026",3093
+"97","GSM4065883","IPF","lung fibroblast",NA,NA,"GSE137026",3801
+"98","GSM4321402","IPF","lung fibroblast",NA,NA,"GSE137026",4863
+"99","GSM4321403","IPF","lung fibroblast",NA,NA,"GSE137026",4167
+"100","GSM4321404","IPF","lung fibroblast",NA,NA,"GSE137026",6421
+"101","GSM4321405","IPF","lung fibroblast",NA,NA,"GSE137026",2405
+"102","GSM4321406","IPF","lung fibroblast",NA,NA,"GSE137026",3519
+"103","GSM4321407","IPF","lung fibroblast",NA,NA,"GSE137026",3565
+"104","GSM4321408","IPF","lung fibroblast",NA,NA,"GSE137026",4108
+"105","GSM4321409","IPF","lung fibroblast",NA,NA,"GSE137026",3923
+"106","GSM3635278","SCLC","lung tumor",79,"M","GSE127465",2865
+"107","GSM3635279","SCLC","lung tumor",79,"M","GSE127465",3052
+"108","GSM3635280","SCLC","lung tumor",79,"M","GSE127465",1475
+"109","GSM3635281","SCLC","lung tumor",79,"M","GSE127465",1722
+"110","GSM3635285","SCLC","lung tumor",74,"F","GSE127465",278
+"111","GSM3635286","SCLC","lung tumor",74,"F","GSE127465",240
+"112","GSM3635288","SCLC","lung tumor",61,"F","GSE127465",3625
+"113","GSM3635289","SCLC","lung tumor",61,"F","GSE127465",3782
+"114","GSM3635290","SCLC","lung tumor",61,"F","GSE127465",4194
+"115","GSM3635292","SCLC","lung tumor",83,"M","GSE127465",1686
+"116","GSM3635293","SCLC","lung tumor",83,"M","GSE127465",1582
+"117","GSM3635294","SCLC","lung tumor",83,"M","GSE127465",2000
+"118","GSM3635296","SCLC","lung tumor",72,"F","GSE127465",2183
+"119","GSM3635297","SCLC","lung tumor",72,"F","GSE127465",2909
+"120","GSM3635298","SCLC","lung tumor",76,"M","GSE127465",3275
+"121","GSM3635299","SCLC","lung tumor",76,"M","GSE127465",3047
+"122","GSM3635301","SCLC","lung tumor",63,"F","GSE127465",3525
+"123","GSM3635302","SCLC","lung tumor",63,"F","GSE127465",3170
+"124","GSM3891620","Normal","whole lung",NA,NA,"GSE132771",9153
+"125","GSM3891621","Normal","whole lung",NA,NA,"GSE132771",3626
+"126","GSM3891622","Normal","whole lung",NA,NA,"GSE132771",4579
+"127","GSM3891623","Normal","whole lung",NA,NA,"GSE132771",4008
+"128","GSM3891624","Normal","whole lung",NA,NA,"GSE132771",2179
+"129","GSM3891625","Normal","whole lung",NA,NA,"GSE132771",4223
+"130","GSM3891626","IPF","whole lung",NA,NA,"GSE132771",4176
+"131","GSM3891627","IPF","whole lung",NA,NA,"GSE132771",1488
+"132","GSM3891628","IPF","whole lung",NA,NA,"GSE132771",5938
+"133","GSM3891629","IPF","whole lung",NA,NA,"GSE132771",3459
+"134","GSM3891630","IPF","whole lung",NA,NA,"GSE132771",12595
+"135","GSM3891631","IPF","whole lung",NA,NA,"GSE132771",7846
+"136","GSM3891632","Normal","whole lung",NA,NA,"GSE132771",8623
+"137","GSM3891633","Normal","whole lung",NA,NA,"GSE132771",2624
+"138","GSM3891634","Normal","whole lung",NA,NA,"GSE132771",2363
+"139","GSM3891635","Normal","whole lung",NA,NA,"GSE132771",4814
+"140","GSM4143260","LAM","whole lung",70,NA,"GSE139534",9084
+"141","GSM4143261","LAM","whole lung",70,NA,"GSE139534",8322
+"142","GSM4143262","Normal","whole lung",70,NA,"GSE139534",5930
+"143","GSM4143263","Normal","whole lung",70,NA,"GSE139534",5070
+"144","GSM5032894","Tumor","whole lung",NA,NA,"GSE165404",11340
+"145","GSM4876739","Normal","Bronchi",26,"F","GSE160673",1296
+"146","GSM4876740","Normal","Bronchi",26,"F","GSE160673",205
+"147","GSM4876741","Normal","Bronchi",26,"M","GSE160673",2170
+"148","GSM4876742","Normal","Bronchi",26,"M","GSE160673",1331
+"149","GSM4876744","Normal","Bronchi",28,"M","GSE160673",4451
+"150","GSM4876745","Normal","Bronchi",23,"F","GSE160673",4128
+"151","GSM4876747","Normal","Bronchiole",17,"F","GSE160673",3578
+"152","GSM4876748","Normal","Bronchiole",52,"F","GSE160673",3080
+"153","GSM4876749","Normal","Bronchiole",44,"M","GSE160673",3533
+"154","GSM4876750","Normal","Bronchiole",26,"M","GSE160673",701
+"155","GSM5282537","COPD","whole lung",63,"M","GSE173896",14815
+"156","GSM5282538","COPD","whole lung",67,"F","GSE173896",2392
+"157","GSM5282539","COPD","whole lung",81,"M","GSE173896",2803
+"158","GSM5282540","COPD","whole lung",77,"M","GSE173896",2584
+"159","GSM5282541","COPD","whole lung",72,"M","GSE173896",4125
+"160","GSM5282542","COPD","whole lung",76,"M","GSE173896",1911
+"161","GSM5282543","COPD","whole lung",53,"M","GSE173896",378
+"162","GSM5282544","COPD","whole lung",62,"M","GSE173896",4964
+"163","GSM5282545","COPD","whole lung",61,"M","GSE173896",6922
+"164","GSM5282546","Normal","whole lung",58,"M","GSE173896",3207
+"165","GSM5282547","Normal","whole lung",56,"F","GSE173896",4278
+"166","GSM5282548","Normal","whole lung",33,"M","GSE173896",4385
+"167","GSM4816089","COPD","whole lung",NA,NA,"GSE158942",2930
+"168","GSM5100998","COPD","whole lung",NA,NA,"GSE167295",5276
+"169","GSM5100999","COPD","whole lung",NA,NA,"GSE167295",3253
+"170","GSM5101000","COPD","whole lung",NA,NA,"GSE167295",3113
+"171","GSM5873135","COPD","lung explant",NA,NA,"GSE196341",7496
+"172","GSM5873136","COPD","lung explant",NA,NA,"GSE196341",2269
+"173","GSM5873137","COPD","lung explant",NA,NA,"GSE196341",9278
+"174","GSM5873138","COPD","lung explant",NA,NA,"GSE196341",1251
+"175","GSM5873139","COPD","lung explant",NA,NA,"GSE196341",2191
+"176","GSM5873140","COPD","lung explant",NA,NA,"GSE196341",8547
+"177","GSM5873141","COPD","lung explant",NA,NA,"GSE196341",4538
+"178","GSM5873142","COPD","lung explant",NA,NA,"GSE196341",51128
+"179","GSM5873143","COPD","lung explant",NA,NA,"GSE196341",4931
+"180","GSM5873144","COPD","lung explant",NA,NA,"GSE196341",837
+"181","GSM5873145","COPD","lung explant",NA,NA,"GSE196341",4897
+"182","GSM5873146","COPD","lung explant",NA,NA,"GSE196341",6104
+"183","GSM4339769","COVID-19","BALF",NA,NA,"GSE145926",3820
+"184","GSM4339770","COVID-19","BALF",NA,NA,"GSE145926",3809
+"185","GSM4339771","COVID-19","BALF",NA,NA,"GSE145926",19278
+"186","GSM4339772","COVID-19","BALF",NA,NA,"GSE145926",543
+"187","GSM4339773","COVID-19","BALF",NA,NA,"GSE145926",16314
+"188","GSM4339774","COVID-19","BALF",NA,NA,"GSE145926",2778
+"189","GSM4475048","Normal","BALF",NA,NA,"GSE145926",9605
+"190","GSM4475049","Normal","BALF",NA,NA,"GSE145926",8701
+"191","GSM4475050","Normal","BALF",NA,NA,"GSE145926",2686
+"192","GSM4475051","COVID-19","BALF",NA,NA,"GSE145926",2072
+"193","GSM4475052","COVID-19","BALF",NA,NA,"GSE145926",2341
+"194","GSM4475053","COVID-19","BALF",NA,NA,"GSE145926",3318
+"195","GSM4516279","COVID-19","whole lung",NA,"M","GSE149878",7455
+"196","GSM4516280","COVID-19","whole lung",NA,"M","GSE149878",7737
+"197","GSM4516281","COVID-19","whole lung",NA,"M","GSE149878",8085
+"198","GSM4516282","COVID-19","whole lung",NA,"M","GSE149878",13506
+"199","GSM4556195","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",532
+"200","GSM4556196","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",464
+"201","GSM4556197","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",158
+"202","GSM4556200","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",2163
+"203","GSM4556202","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",191
+"204","GSM4556203","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1216
+"205","GSM4556204","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",2502
+"206","GSM4556205","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",865
+"207","GSM4556206","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1349
+"208","GSM4556207","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",822
+"209","GSM4556208","Normal","Airway Submucosal Glands",NA,NA,"GSE150674",42
+"210","GSM4556209","Normal","Airway Submucosal Glands",NA,NA,"GSE150674",26
+"211","GSM4556210","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",280
+"212","GSM4556211","Normal","Airway Submucosal Glands",NA,NA,"GSE150674",168
+"213","GSM4556212","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",363
+"214","GSM4556213","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1706
+"215","GSM4556214","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1623
+"216","GSM4556215","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",2849
+"217","GSM4556216","Normal","Airway Submucosal Glands",NA,NA,"GSE150674",115
+"218","GSM4556217","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",183
+"219","GSM4556218","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1622
+"220","GSM4556219","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1130
+"221","GSM4556220","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",279
+"222","GSM4556221","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",738
+"223","GSM4556222","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1617
+"224","GSM4556223","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",1493
+"225","GSM4556224","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",2052
+"226","GSM4556225","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",870
+"227","GSM4556226","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",979
+"228","GSM4556227","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",667
+"229","GSM4556228","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",989
+"230","GSM4556229","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",361
+"231","GSM4556230","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",349
+"232","GSM4556231","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",405
+"233","GSM4556232","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",490
+"234","GSM4556233","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",44
+"235","GSM4556234","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",53
+"236","GSM4556236","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",495
+"237","GSM4556237","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",671
+"238","GSM4556238","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",233
+"239","GSM4556239","Normal","airway epithelial (HAECs)",NA,NA,"GSE150674",3217
+"240","GSM3489182","Normal","whole lung",NA,NA,"GSE122960",5084
+"241","GSM3489183","IPF","whole lung",NA,NA,"GSE122960",2042
+"242","GSM3489184","IPF","whole lung",NA,NA,"GSE122960",2100
+"243","GSM3489185","Normal","whole lung",NA,NA,"GSE122960",3772
+"244","GSM3489186","IPF","whole lung",NA,NA,"GSE122960",1349
+"245","GSM3489187","Normal","whole lung",NA,NA,"GSE122960",5163
+"246","GSM3489188","IPF","whole lung",NA,NA,"GSE122960",3592
+"247","GSM3489189","Normal","whole lung",NA,NA,"GSE122960",4990
+"248","GSM3489190","IPF","whole lung",NA,NA,"GSE122960",4725
+"249","GSM3489191","Normal","whole lung",NA,NA,"GSE122960",5331
+"250","GSM3489192","HP","whole lung",NA,NA,"GSE122960",2753
+"251","GSM3489193","Normal","whole lung",NA,NA,"GSE122960",4228
+"252","GSM3489194","NSIP","whole lung",NA,NA,"GSE122960",4828
+"253","GSM3489195","Normal","whole lung",NA,NA,"GSE122960",7467
+"254","GSM3489196","NSIP","whole lung",NA,NA,"GSE122960",5940
+"255","GSM3489197","Normal","whole lung",NA,NA,"GSE122960",6555
+"256","GSM3489198","NSIP","whole lung",NA,NA,"GSE122960",6157
+"257","GSM4240800","Unknown","whole lung",NA,NA,"GSE142838",4951
+"258","GSM5020379","Normal","whole lung",NA,NA,"GSE164829",2417
+"259","GSM5020380","Normal","whole lung",NA,NA,"GSE164829",726
+"260","GSM5020381","Normal","whole lung",NA,NA,"GSE164829",2375
+"261","GSM5501481","Normal","peripheral lung",NA,NA,"GSE181388",20227
+"262","GSM5501482","Normal","peripheral lung",NA,NA,"GSE181388",1624
+"263","GSM4272915","Normal","airway distal",47,"M","GSE160664",1801
+"264","GSM4272916","Normal","airway distal",63,"F","GSE160664",5332
+"265","GSM4272917","Normal","airway distal",53,"F","GSE160664",1199
+"266","GSM4272918","Normal","airway distal",24,"M","GSE160664",2095
+"267","GSM4272919","Normal","airway distal",52,"M","GSE160664",474
+"268","GSM4272920","Normal","airway distal",48,"F","GSE160664",1549
+"269","GSM4876617","Normal","airway proximal",20,"M","GSE160664",1560
+"270","GSM4876618","Normal","airway distal",17,"F","GSE160664",1357
+"271","GSM4876619","Normal","airway distal",47,"M","GSE160664",821
+"272","GSM4876620","Normal","airway distal",63,"F","GSE160664",5164
+"273","GSM4876621","Normal","airway distal",53,"F","GSE160664",1369
+"274","GSM4876622","Normal","airway distal",24,"M","GSE160664",2341
+"275","GSM4876623","Normal","airway distal",52,"M","GSE160664",903
+"276","GSM4876624","Normal","airway distal",48,"F","GSE160664",1905
+"277","GSM4876625","Normal","airway distal",20,"M","GSE160664",2385
+"278","GSM4876626","Normal","airway distal",17,"F","GSE160664",456
+"279","GSM5060554","IPF","lung explant",NA,NA,"GSE166037",2945
+"280","GSM5060555","IPF","lung explant",NA,NA,"GSE166037",2325
+"281","GSM3204304","IPF","lung explant",NA,NA,"GSE115982",3575
+"282","GSM3204305","IPF","lung explant",NA,NA,"GSE115982",3863
+"283","GSM3660641","Normal","lung upper lobe",NA,NA,"GSE128033",952
+"284","GSM3660642","Normal","lung upper lobe",NA,NA,"GSE128033",1244
+"285","GSM3660643","Normal","lung upper lobe",NA,NA,"GSE128033",1378
+"286","GSM3660644","Normal","lung upper lobe",NA,NA,"GSE128033",3374
+"287","GSM3660645","Normal","lung upper lobe",NA,NA,"GSE128033",4748
+"288","GSM3660646","Normal","lung upper lobe",NA,NA,"GSE128033",3411
+"289","GSM3660647","Normal","lung lower lobe",NA,NA,"GSE128033",4822
+"290","GSM3660648","Normal","lung upper lobe",NA,NA,"GSE128033",7265
+"291","GSM3660649","Normal","BAL",NA,NA,"GSE128033",793
+"292","GSM3660650","Normal","BAL",NA,NA,"GSE128033",3642
+"293","GSM3660651","IPF","lung lower lobe",NA,NA,"GSE128033",5959
+"294","GSM3660652","IPF","lung upper lobe",NA,NA,"GSE128033",4911
+"295","GSM3660653","IPF","lung lower lobe",NA,NA,"GSE128033",5366
+"296","GSM3660654","IPF","lung lower lobe",NA,NA,"GSE128033",3258
+"297","GSM3660655","IPF","lung upper lobe",NA,NA,"GSE128033",2446
+"298","GSM3660656","IPF","lung lower lobe",NA,NA,"GSE128033",2647
+"299","GSM3660657","IPF","lung lower lobe",NA,NA,"GSE128033",2873
+"300","GSM3660658","IPF","lung upper lobe",NA,NA,"GSE128033",4019
+"301","GSM3896324","Normal","whole lung",NA,NA,"GSE132914",1435
+"302","GSM3896325","Normal","whole lung",NA,NA,"GSE132914",1933
+"303","GSM3896326","Normal","whole lung",NA,NA,"GSE132914",1152
+"304","GSM3896327","IPF","whole lung",NA,NA,"GSE132914",1593
+"305","GSM3896328","IPF","whole lung",NA,NA,"GSE132914",1212
+"306","GSM3896329","IPF","whole lung",NA,NA,"GSE132914",1535
+"307","GSM4037297","NSIP","whole lung",NA,NA,"GSE135893",288
+"308","GSM4037298","HP","whole lung",NA,NA,"GSE135893",483
+"309","GSM4037299","IPF","whole lung",NA,NA,"GSE135893",944
+"310","GSM4037300","NSIP","whole lung",NA,NA,"GSE135893",2598
+"311","GSM4037301","Normal","whole lung",NA,NA,"GSE135893",2237
+"312","GSM4037302","Normal","whole lung",NA,NA,"GSE135893",2234
+"313","GSM4037303","Sarcoidosis","whole lung",NA,NA,"GSE135893",1650
+"314","GSM4037304","HP","whole lung",NA,NA,"GSE135893",5782
+"315","GSM4037305","Normal","whole lung",NA,NA,"GSE135893",7150
+"316","GSM4037306","Normal","whole lung",NA,NA,"GSE135893",4896
+"317","GSM4037307","IPF","whole lung",NA,NA,"GSE135893",6428
+"318","GSM4037308","IPF","whole lung",NA,NA,"GSE135893",5386
+"319","GSM4037309","Normal","whole lung",NA,NA,"GSE135893",694
+"320","GSM4037310","IPF","whole lung",NA,NA,"GSE135893",3220
+"321","GSM4037311","IPF","whole lung",NA,NA,"GSE135893",2028
+"322","GSM4037312","IPF","whole lung",NA,NA,"GSE135893",2034
+"323","GSM4037313","Normal","whole lung",NA,NA,"GSE135893",2116
+"324","GSM4037314","IPF","whole lung",NA,NA,"GSE135893",4793
+"325","GSM4037315","IPF","whole lung",NA,NA,"GSE135893",1128
+"326","GSM4037316","Normal","whole lung",NA,NA,"GSE135893",1344
+"327","GSM4037317","NSIP","whole lung",NA,NA,"GSE135893",2585
+"328","GSM4037318","NSIP","whole lung",NA,NA,"GSE135893",2504
+"329","GSM4037319","IPF","whole lung",NA,NA,"GSE135893",5864
+"330","GSM4037320","IPF","whole lung",NA,NA,"GSE135893",1714
+"331","GSM4037321","IPF","whole lung",NA,NA,"GSE135893",1115
+"332","GSM4037322","IPF","whole lung",NA,NA,"GSE135893",1908
+"333","GSM4037323","Normal","whole lung",NA,NA,"GSE135893",1958
+"334","GSM4037324","Normal","whole lung",NA,NA,"GSE135893",2521
+"335","GSM4037325","Normal","whole lung",NA,NA,"GSE135893",3094
+"336","GSM4037326","IPF","whole lung",NA,NA,"GSE135893",3093
+"337","GSM4037327","IPF","whole lung",NA,NA,"GSE135893",1398
+"338","GSM4037328","Sarcoidosis","whole lung",NA,NA,"GSE135893",2776
+"339","GSM4037329","IPF","whole lung",NA,NA,"GSE135893",3689
+"340","GSM4037330","NSIP","whole lung",NA,NA,"GSE135893",3668
+"341","GSM4272915","Normal","trachea",NA,NA,"GSE143706",912
+"342","GSM4272916","Normal","trachea",NA,NA,"GSE143706",5436
+"343","GSM4272917","Normal","trachea",NA,NA,"GSE143706",1414
+"344","GSM4272918","Normal","trachea",NA,NA,"GSE143706",2485
+"345","GSM4272919","Normal","trachea",NA,NA,"GSE143706",1028
+"346","GSM4272920","Normal","trachea",NA,NA,"GSE143706",1970
+"347","GSM4272921","IPF","trachea",NA,NA,"GSE143706",2281
+"348","GSM4272922","IPF","trachea",NA,NA,"GSE143706",3030
+"349","GSM4272923","IPF","trachea",NA,NA,"GSE143706",2840
+"350","GSM4272924","IPF","trachea",NA,NA,"GSE143706",4926
+"351","GSM4272925","IPF","trachea",NA,NA,"GSE143706",1409
+"352","GSM4272926","IPF","trachea",NA,NA,"GSE143706",3953
+"353","GSM4272927","IPF","trachea",NA,NA,"GSE143706",1212
+"354","GSM4318408","IPF","peripheral lung",NA,"M","GSE145439",8145
+"355","GSM4318409","IPF","peripheral lung",NA,"F","GSE145439",1345
+"356","GSM4318410","IPF","peripheral lung",NA,"M","GSE145439",1045
+"357","GSM4411701","Normal","distal airway",NA,NA,"GSE146981",1933
+"358","GSM4411702","Normal","distal airway",NA,NA,"GSE146981",1152
+"359","GSM4411703","Normal","distal airway",NA,NA,"GSE146981",249
+"360","GSM4411704","Normal","distal airway",NA,NA,"GSE146981",3845
+"361","GSM4411705","Normal","trachea",NA,NA,"GSE146981",1773
+"362","GSM4411706","Normal","trachea",NA,NA,"GSE146981",1656
+"363","GSM4411707","Normal","trachea",NA,NA,"GSE146981",723
+"364","GSM4411708","Normal","trachea",NA,NA,"GSE146981",1223
+"365","GSM4411709","Normal","trachea",NA,NA,"GSE146981",1414
+"366","GSM4411710","Normal","trachea",NA,NA,"GSE146981",2208
+"367","GSM4411711","Normal","trachea",NA,NA,"GSE146981",1918
+"368","GSM4411712","Normal","trachea",NA,NA,"GSE146981",502
+"369","GSM4411713","Normal","trachea",NA,NA,"GSE146981",199
+"370","GSM4411714","Normal","trachea",NA,NA,"GSE146981",879
+"371","GSM4411715","Normal","trachea",NA,NA,"GSE146981",1473
+"372","GSM4411716","Normal","trachea",NA,NA,"GSE146981",3018
+"373","GSM4411717","Normal","trachea",NA,NA,"GSE146981",1826
+"374","GSM4411718","IPF","lung explant",NA,NA,"GSE146981",2281
+"375","GSM4411719","IPF","lung explant",NA,NA,"GSE146981",3030
+"376","GSM4411720","IPF","lung explant",NA,NA,"GSE146981",2840
+"377","GSM4411721","IPF","lung explant",NA,NA,"GSE146981",3538
+"378","GSM4411722","IPF","lung explant",NA,NA,"GSE146981",4926
+"379","GSM4411723","IPF","lung explant",NA,NA,"GSE146981",1313
+"380","GSM4411724","IPF","lung explant",NA,NA,"GSE146981",1409
+"381","GSM4411725","IPF","lung explant",NA,NA,"GSE146981",1898
+"382","GSM4411726","IPF","lung explant",NA,NA,"GSE146981",3953
+"383","GSM4411727","IPF","lung explant",NA,NA,"GSE146981",1593
+"384","GSM4411728","IPF","lung explant",NA,NA,"GSE146981",1212
+"385","GSM4728858","IPF","lung lower lobe",NA,NA,"GSE156310",3586
+"386","GSM4728859","IPF","lung upper lobe",NA,NA,"GSE156310",4414
+"387","GSM4763854","IPF","whole lung",NA,NA,"GSE157376",485
+"388","GSM4763855","IPF","whole lung",NA,NA,"GSE157376",157
+"389","GSM4763856","IPF","whole lung",NA,NA,"GSE157376",555
+"390","GSM4763857","IPF","whole lung",NA,NA,"GSE157376",69
+"391","GSM4763858","IPF","whole lung",NA,NA,"GSE157376",104
+"392","GSM4763859","Normal","whole lung",NA,NA,"GSE157376",1314
+"393","GSM4763860","Normal","whole lung",NA,NA,"GSE157376",350
+"394","GSM4763861","Normal","whole lung",NA,NA,"GSE157376",180
+"395","GSM4763862","Normal","whole lung",NA,NA,"GSE157376",212
+"396","GSM4763863","Normal","whole lung",NA,NA,"GSE157376",217
+"397","GSM4058900","IPF","whole lung",32,"F","GSE136831",6368
+"398","GSM4058901","Normal","whole lung",21,"F","GSE136831",999
+"399","GSM4058902","IPF","whole lung",49,"M","GSE136831",4279
+"400","GSM4058903","IPF","whole lung",29,"M","GSE136831",5330
+"401","GSM4058904","Normal","whole lung",32,"M","GSE136831",10736
+"402","GSM4058905","Normal","whole lung",50,"M","GSE136831",166
+"403","GSM4058906","IPF","whole lung",41,"F","GSE136831",1851
+"404","GSM4058907","Normal","whole lung",56,"M","GSE136831",2622
+"405","GSM4058908","Normal","whole lung",37,"F","GSE136831",1268
+"406","GSM4058909","Normal","whole lung",80,"F","GSE136831",3303
+"407","GSM4058910","IPF","whole lung",23,"M","GSE136831",4592
+"408","GSM4058911","IPF","whole lung",65,"M","GSE136831",4842
+"409","GSM4058912","IPF","whole lung",64,"M","GSE136831",5442
+"410","GSM4058913","Normal","whole lung",29,"M","GSE136831",9240
+"411","GSM4058914","Normal","whole lung",66,"F","GSE136831",7197
+"412","GSM4058915","Normal","whole lung",66,"F","GSE136831",982
+"413","GSM4058916","Normal","whole lung",61,"M","GSE136831",2287
+"414","GSM4058917","COPD","whole lung",62,"F","GSE136831",6865
+"415","GSM4058918","Normal","whole lung",35,"M","GSE136831",2166
+"416","GSM4058919","Normal","whole lung",22,"M","GSE136831",1862
+"417","GSM4058920","Normal","whole lung",25,"F","GSE136831",700
+"418","GSM4058921","Normal","whole lung",67,"F","GSE136831",3460
+"419","GSM4058922","Normal","whole lung",48,"F","GSE136831",1163
+"420","GSM4058923","Normal","whole lung",66,"F","GSE136831",945
+"421","GSM4058924","Normal","whole lung",31,"M","GSE136831",1110
+"422","GSM4058925","Normal","whole lung",20,"M","GSE136831",477
+"423","GSM4058926","COPD","whole lung",54,"M","GSE136831",60
+"424","GSM4058927","Normal","whole lung",46,"M","GSE136831",4319
+"425","GSM4058928","COPD","whole lung",57,"M","GSE136831",3273
+"426","GSM4058929","IPF","whole lung",62,"M","GSE136831",7062
+"427","GSM4058930","IPF","whole lung",58,"F","GSE136831",4524
+"428","GSM4058931","COPD","whole lung",55,"F","GSE136831",3586
+"429","GSM4058932","Normal","whole lung",66,"M","GSE136831",4028
+"430","GSM4058933","COPD","whole lung",66,"M","GSE136831",6802
+"431","GSM4058934","COPD","whole lung",63,"M","GSE136831",2944
+"432","GSM4058935","COPD","whole lung",59,"M","GSE136831",3165
+"433","GSM4058936","Normal","whole lung",60,"F","GSE136831",2049
+"434","GSM4058937","Normal","whole lung",70,"F","GSE136831",4823
+"435","GSM4058938","COPD","whole lung",66,"M","GSE136831",1850
+"436","GSM4058939","COPD","whole lung",61,"F","GSE136831",4176
+"437","GSM4058940","COPD","whole lung",57,"F","GSE136831",3566
+"438","GSM4058941","COPD","whole lung",66,"M","GSE136831",1959
+"439","GSM4058942","COPD","whole lung",65,"M","GSE136831",453
+"440","GSM4058943","IPF","whole lung",62,"F","GSE136831",3718
+"441","GSM4058944","IPF","whole lung",57,"F","GSE136831",3292
+"442","GSM4058945","IPF","whole lung",73,"F","GSE136831",3665
+"443","GSM4058946","IPF","whole lung",68,"M","GSE136831",4496
+"444","GSM4058947","Normal","whole lung",59,"M","GSE136831",4595
+"445","GSM4058948","IPF","whole lung",56,"M","GSE136831",4886
+"446","GSM4058949","COPD","whole lung",67,"M","GSE136831",4923
+"447","GSM4058950","IPF","whole lung",66,"F","GSE136831",6518
+"448","GSM4058951","IPF","whole lung",63,"M","GSE136831",5876
+"449","GSM4058952","IPF","whole lung",67,"F","GSE136831",6562
+"450","GSM4058953","COPD","whole lung",70,"M","GSE136831",6514
+"451","GSM4058954","IPF","whole lung",65,"F","GSE136831",2763
+"452","GSM4058955","IPF","whole lung",71,"M","GSE136831",957
+"453","GSM4058956","COPD","whole lung",69,"M","GSE136831",2573
+"454","GSM4058957","Normal","whole lung",67,"F","GSE136831",10110
+"455","GSM4058958","IPF","whole lung",59,"M","GSE136831",8641
+"456","GSM4058959","IPF","whole lung",70,"F","GSE136831",12085
+"457","GSM4058960","IPF","whole lung",56,"M","GSE136831",3215
+"458","GSM4058961","IPF","whole lung",61,"M","GSE136831",1263
+"459","GSM4058962","COPD","whole lung",62,"M","GSE136831",3482
+"460","GSM4058963","Normal","whole lung",65,"M","GSE136831",706
+"461","GSM4058964","IPF","whole lung",78,"M","GSE136831",4867
+"462","GSM4058965","IPF","whole lung",69,"M","GSE136831",3122
+"463","GSM4058966","IPF","whole lung",67,"M","GSE136831",3239
+"464","GSM4058967","IPF","whole lung",59,"M","GSE136831",6839
+"465","GSM4058968","IPF","whole lung",70,"M","GSE136831",3670
+"466","GSM4058969","IPF","whole lung",64,"M","GSE136831",2463
+"467","GSM4058970","IPF","whole lung",66,"M","GSE136831",4624
+"468","GSM4058971","COPD","whole lung",60,"M","GSE136831",4382
+"469","GSM4058972","IPF","whole lung",66,"F","GSE136831",1167
+"470","GSM4058973","Normal","whole lung",68,"M","GSE136831",1883
+"471","GSM4058974","IPF","whole lung",54,"M","GSE136831",4949
+"472","GSM4058975","Normal","whole lung",74,"M","GSE136831",8566
+"473","GSM4058976","Normal","whole lung",68,"M","GSE136831",4541
+"474","GSM4058977","COPD","whole lung",69,"M","GSE136831",8879
+"475","GSM5699777","LUAD","whole lung",NA,"F","GSE189357",13749
+"476","GSM5699778","LUAD","whole lung",NA,"M","GSE189357",17224
+"477","GSM5699779","LUAD","whole lung",NA,"M","GSE189357",11570
+"478","GSM5699780","LUAD","whole lung",NA,"F","GSE189357",11256
+"479","GSM5699781","LUAD","whole lung",NA,"F","GSE189357",18598
+"480","GSM5699782","LUAD","whole lung",NA,"F","GSE189357",8099
+"481","GSM5699783","LUAD","whole lung",NA,"F","GSE189357",3469
+"482","GSM5699784","LUAD","whole lung",NA,"M","GSE189357",15186
+"483","GSM5699785","LUAD","whole lung",NA,"F","GSE189357",16274
+"484","GSM3827114","LUAD","whole lung",NA,NA,"GSE131907",3045
+"485","GSM3827115","LUAD","whole lung",NA,NA,"GSE131907",2744
+"486","GSM3827116","LUAD","whole lung",NA,NA,"GSE131907",3228
+"487","GSM3827117","LUAD","whole lung",NA,NA,"GSE131907",2446
+"488","GSM3827118","LUAD","whole lung",NA,NA,"GSE131907",4448
+"489","GSM3827119","LUAD","whole lung",NA,NA,"GSE131907",3786
+"490","GSM3827120","LUAD","whole lung",NA,NA,"GSE131907",5513
+"491","GSM3827121","LUAD","whole lung",NA,NA,"GSE131907",3250
+"492","GSM3827122","LUAD","whole lung",NA,NA,"GSE131907",3811
+"493","GSM3827123","LUAD","whole lung",NA,NA,"GSE131907",4120
+"494","GSM3827124","LUAD","whole lung",NA,NA,"GSE131907",4997
+"495","GSM3827125","LUAD","lung tumor",NA,NA,"GSE131907",3354
+"496","GSM3827126","LUAD","lung tumor",NA,NA,"GSE131907",3697
+"497","GSM3827127","LUAD","lung tumor",NA,NA,"GSE131907",3760
+"498","GSM3827128","LUAD","lung tumor",NA,NA,"GSE131907",3025
+"499","GSM3827129","LUAD","lung tumor",NA,NA,"GSE131907",4272
+"500","GSM3827130","LUAD","lung tumor",NA,NA,"GSE131907",3896
+"501","GSM3827131","LUAD","lung tumor",NA,NA,"GSE131907",4284
+"502","GSM3827132","LUAD","lung tumor",NA,NA,"GSE131907",4293
+"503","GSM3827133","LUAD","lung tumor",NA,NA,"GSE131907",4049
+"504","GSM3827134","LUAD","lung tumor",NA,NA,"GSE131907",5455
+"505","GSM3827135","LUAD","lung tumor",NA,NA,"GSE131907",2662
+"506","GSM5444604","SCLC","whole lung",NA,NA,"GSE179994",4189
+"507","GSM5444605","SCLC","whole lung",NA,NA,"GSE179994",2997
+"508","GSM5444606","SCLC","whole lung",NA,NA,"GSE179994",3085
+"509","GSM5444607","SCLC","whole lung",NA,NA,"GSE179994",3455
+"510","GSM5444608","SCLC","whole lung",NA,NA,"GSE179994",2233
+"511","GSM5444609","SCLC","whole lung",NA,NA,"GSE179994",1955
+"512","GSM5444610","SCLC","whole lung",NA,NA,"GSE179994",1041
+"513","GSM5444611","SCLC","whole lung",NA,NA,"GSE179994",358
+"514","GSM5444612","SCLC","whole lung",NA,NA,"GSE179994",1675
+"515","GSM5444613","SCLC","whole lung",NA,NA,"GSE179994",454
+"516","GSM5444614","SCLC","whole lung",NA,NA,"GSE179994",1672
+"517","GSM5444615","SCLC","whole lung",NA,NA,"GSE179994",1053
+"518","GSM5444616","SCLC","whole lung",NA,NA,"GSE179994",6983
+"519","GSM5444617","SCLC","whole lung",NA,NA,"GSE179994",2764
+"520","GSM5444618","SCLC","whole lung",NA,NA,"GSE179994",1998
+"521","GSM5444619","SCLC","whole lung",NA,NA,"GSE179994",3130
+"522","GSM5444620","SCLC","whole lung",NA,NA,"GSE179994",1221
+"523","GSM5444621","SCLC","whole lung",NA,NA,"GSE179994",4143
+"524","GSM5444622","SCLC","whole lung",NA,NA,"GSE179994",3576
+"525","GSM5444623","SCLC","whole lung",NA,NA,"GSE179994",3366
+"526","GSM5444624","SCLC","whole lung",NA,NA,"GSE179994",2144
+"527","GSM5444625","SCLC","whole lung",NA,NA,"GSE179994",1488
+"528","GSM5444626","SCLC","whole lung",NA,NA,"GSE179994",1351
+"529","GSM5444627","SCLC","whole lung",NA,NA,"GSE179994",2992
+"530","GSM5444628","SCLC","whole lung",NA,NA,"GSE179994",9203
+"531","GSM5444629","SCLC","whole lung",NA,NA,"GSE179994",8883
+"532","GSM5444630","SCLC","whole lung",NA,NA,"GSE179994",2570
+"533","GSM5444631","SCLC","whole lung",NA,NA,"GSE179994",2818
+"534","GSM5444632","SCLC","whole lung",NA,NA,"GSE179994",808
+"535","GSM5444633","SCLC","whole lung",NA,NA,"GSE179994",2551
+"536","GSM5444634","SCLC","whole lung",NA,NA,"GSE179994",1552
+"537","GSM5444635","SCLC","whole lung",NA,NA,"GSE179994",5941
+"538","GSM5444636","SCLC","whole lung",NA,NA,"GSE179994",353
+"539","GSM5444637","SCLC","whole lung",NA,NA,"GSE179994",2144
+"540","GSM5444638","SCLC","whole lung",NA,NA,"GSE179994",3397
+"541","GSM5444639","SCLC","whole lung",NA,NA,"GSE179994",2299
+"542","GSM5444640","SCLC","whole lung",NA,NA,"GSE179994",1498
+"543","GSM5444641","SCLC","whole lung",NA,NA,"GSE179994",2784
+"544","GSM5444642","SCLC","whole lung",NA,NA,"GSE179994",7564
+"545","GSM5444643","SCLC","whole lung",NA,NA,"GSE179994",1963
+"546","GSM5444644","SCLC","whole lung",NA,NA,"GSE179994",4768
+"547","GSM5444645","SCLC","whole lung",NA,NA,"GSE179994",4221
+"548","GSM5444646","SCLC","whole lung",NA,NA,"GSE179994",3757
+"549","GSM5444647","SCLC","whole lung",NA,NA,"GSE179994",5926
+"550","GSM5444648","SCLC","whole lung",NA,NA,"GSE179994",4623
+"551","GSM5444649","SCLC","whole lung",NA,NA,"GSE179994",507
+"552","GSM5444650","SCLC","whole lung",NA,NA,"GSE179994",3355
+"553","GSM4365352","LUAD","whole lung",72,NA,"GSE146100",4062
+"554","GSM4365353","LUAD","whole lung",72,NA,"GSE146100",2047
+"555","GSM3666096","Normal","lung upper lobe",NA,NA,"GSE128169",3374
+"556","GSM3666097","Normal","lung upper lobe",NA,NA,"GSE128169",4748
+"557","GSM3666098","Normal","lung upper lobe",NA,NA,"GSE128169",3411
+"558","GSM3666099","Normal","lung lower lobe",NA,NA,"GSE128169",4822
+"559","GSM3666100","Normal","lung upper lobe",NA,NA,"GSE128169",7265
+"560","GSM3666101","NSIP","lung lower lobe",NA,NA,"GSE128169",3519
+"561","GSM3666102","NSIP","lung upper lobe",NA,NA,"GSE128169",4156
+"562","GSM3666103","NSIP","lung lower lobe",NA,NA,"GSE128169",3331
+"563","GSM3666104","NSIP","lung upper lobe",NA,NA,"GSE128169",4299
+"564","GSM3666105","NSIP","lung lower lobe",NA,NA,"GSE128169",6000
+"565","GSM3666106","NSIP","lung upper lobe",NA,NA,"GSE128169",6756
+"566","GSM3666107","NSIP","lung lower lobe",NA,NA,"GSE128169",3435
+"567","GSM3666108","NSIP","lung upper lobe",NA,NA,"GSE128169",4756
+"568","GSM3909673","Normal","lung upper lobe",NA,NA,"GSE128169",7716
+"569","GSM3909674","Scleroderma","lung upper lobe",NA,NA,"GSE128169",11995
+"570","GSM3909675","Scleroderma","lung upper lobe",NA,NA,"GSE128169",15314
+"571","GSM4715429","COVID-19","whole lung",1,"M","GSE155900",6226
+"572","GSM4715430","COVID-19","whole lung",1,"F","GSE155900",4705
+"573","GSM4715431","COVID-19","whole lung",1,"F","GSE155900",1855
+"574","GSM4715432","COVID-19","whole lung",1,"F","GSE155900",385
+"575","GSM4715433","COVID-19","whole lung",3,"F","GSE155900",15622
+"576","GSM4715434","COVID-19","whole lung",1,"F","GSE155900",3462
+"577","GSM4715435","COVID-19","whole lung",1,"M","GSE155900",13644
+"578","GSM4715436","COVID-19","whole lung",1,"M","GSE155900",10054
+"579","GSM4715437","COVID-19","whole lung",1,"F","GSE155900",12710
+"580","GSM4715438","COVID-19","whole lung",2,"M","GSE155900",7492
+"581","GSM5206779","IPAH","whole lung",21,"M","GSE169471",3257
+"582","GSM5206780","IPAH","whole lung",50,"F","GSE169471",5891
+"583","GSM5206781","IPAH","whole lung",36,"F","GSE169471",4938
+"584","GSM5206782","Normal","whole lung",76,"M","GSE169471",937
+"585","GSM5206783","Normal","whole lung",56,"M","GSE169471",1208
+"586","GSM5206784","Normal","whole lung",56,"M","GSE169471",1359
+"587","GSM5206785","Normal","lung upper lobe",55,"M","GSE169471",3490
+"588","GSM5206786","Normal","whole lung",57,"F","GSE169471",4826
+"589","GSM5206787","Normal","whole lung",18,"M","GSE169471",3407
+"590","GSM5206788","Normal","lung lower lobe",23,"F","GSE169471",4791
+"591","GSM5206789","Normal","lung upper lobe",23,"F","GSE169471",7204
+"592","GSM5870246","Normal","lung upper lobe",NA,NA,"GSE196303",7134
+"593","GSM5870247","Normal","lung upper lobe",NA,NA,"GSE196303",642
+"594","GSM5870248","Normal","lung upper lobe",NA,NA,"GSE196303",6815
+"595","GSM5870249","Normal","lung upper lobe",NA,NA,"GSE196303",2069
+"596","GSM5870250","Tumor","lung upper lobe",NA,NA,"GSE196303",963
+"597","GSM5870251","Normal","lung middle lobe",NA,NA,"GSE196303",2272
+"598","GSM5870252","Normal","lung lower lobe",NA,NA,"GSE196303",1748
+"599","GSM5870253","Normal","lung lower lobe",NA,NA,"GSE196303",3322
+"600","GSM5870254","Normal","lung lower lobe",NA,NA,"GSE196303",2605
+"601","GSM5870255","Normal","lung lower lobe",NA,NA,"GSE196303",3707
+"602","GSM5870256","Tumor","lung lower lobe",NA,NA,"GSE196303",4378
+"603","GSM5870257","Normal","lung lower lobe",NA,NA,"GSE196303",1713
+"604","GSM5870258","Normal","lung lower lobe",NA,NA,"GSE196303",1405
+"605","GSM4544005","Normal","whole lung",NA,NA,"GSE150247",5386
+"606","GSM4544006","Normal","whole lung",NA,NA,"GSE150247",8451
+"607","GSM4544007","Normal","whole lung",NA,NA,"GSE150247",8393
+"608","GSM3304007","LUAD","whole lung",NA,"M","GSE117570",1762
+"609","GSM3304008","LUAD","Adjacent proximal",NA,"M","GSE117570",2457
+"610","GSM3304009","LUAD","whole lung",NA,"F","GSE117570",839
+"611","GSM3304010","LUAD","Adjacent proximal",NA,"F","GSE117570",1012
+"612","GSM3304011","LUAD","whole lung",NA,"F","GSE117570",241
+"613","GSM3304012","LUAD","Adjacent proximal",NA,"F","GSE117570",654
+"614","GSM3304013","LUAD","whole lung",NA,"F","GSE117570",827
+"615","GSM3304014","LUAD","Adjacent proximal",NA,"F","GSE117570",1944
+"616","GSM3830056","SCLC","lung tumor",NA,NA,"GSE131933",2731
+"617","GSM3830057","SCLC","lung tumor",NA,NA,"GSE131933",9410
+"618","GSM3830058","SCLC","lung tumor",NA,NA,"GSE131933",11050
+"619","GSM3830059","SCLC","lung tumor",NA,NA,"GSE131933",9299
+"620","GSM3830060","SCLC","lung tumor",NA,NA,"GSE131933",1727
+"621","GSM3830061","SCLC","lung tumor",NA,NA,"GSE131933",4592
+"622","GSM3830062","SCLC","lung tumor",NA,NA,"GSE131933",4223
+"623","GSM3830063","SCLC","lung tumor",NA,NA,"GSE131933",4944
+"624","GSM4186956","SCLC","lung tumor",NA,NA,"GSE140819",5689
+"625","GSM4186957","SCLC","lung tumor",NA,NA,"GSE140819",5992
+"626","GSM4186958","SCLC","lung tumor",NA,NA,"GSE140819",5630
+"627","GSM4186959","SCLC","lung tumor",NA,NA,"GSE140819",3578
+"628","GSM4186960","SCLC","lung tumor",NA,NA,"GSE140819",12097
+"629","GSM4301252","SCLC","lung tumor",NA,NA,"GSE144945",2247
+"630","GSM4301253","SCLC","lung tumor",NA,NA,"GSE144945",2410
+"631","GSM4301254","SCLC","lung tumor",NA,NA,"GSE144945",4430
+"632","GSM4301255","SCLC","lung tumor",NA,NA,"GSE144945",4065
+"633","GSM4301256","SCLC","lung tumor",NA,NA,"GSE144945",2943
+"634","GSM4301257","SCLC","lung tumor",NA,NA,"GSE144945",3599
+"635","GSM4301258","SCLC","lung tumor",NA,NA,"GSE144945",4350
+"636","GSM4301259","SCLC","lung tumor",NA,NA,"GSE144945",2860
+"637","GSM4301260","SCLC","lung tumor",NA,NA,"GSE144945",3171
+"638","GSM4301261","SCLC","lung tumor",NA,NA,"GSE144945",3368
+"639","GSM4143260","LAM","whole lung",70,NA,"GSE139819",9084
+"640","GSM4143261","LAM","whole lung",70,NA,"GSE139819",8322
+"641","GSM4143262","Normal","whole lung",70,NA,"GSE139819",5930
+"642","GSM4143263","Normal","whole lung",70,NA,"GSE139819",5070
+"644","GSM4879379","lung transplantation","BALF from lung transplantation",NA,NA,"GSE160794",6805
+"645","GSM4969889","Normal","whole lung",NA,NA,"GSE162996",5171
+"646","GSM5596664","Normal","BAL",NA,NA,"GSE184735",140
+"647","GSM5596665","Chronic Beryllium Disease","BAL",NA,NA,"GSE184735",2124
+"648","GSM5596666","Chronic Beryllium Disease","BAL",NA,NA,"GSE184735",1079
+"649","GSM5596667","Sarcoidosis","BAL",NA,NA,"GSE184735",1351
+"650","GSM5596668","Sarcoidosis","BAL",NA,NA,"GSE184735",891
+"651","GSM5596669","Sarcoidosis","BAL",NA,NA,"GSE184735",2752
+"652","GSM5596670","Sarcoidosis","BAL",NA,NA,"GSE184735",720
+"653","GSM5596671","Normal","BAL",NA,NA,"GSE184735",2777
+"654","GSM5596672","Chronic Beryllium Disease","BAL",NA,NA,"GSE184735",3977
+"656","GSM4756813","Normal","whole lung",NA,NA,"GSE157157",3334
+"657","GSM4756814","Normal","whole lung",NA,NA,"GSE157157",1066
+"658","GSM4756815","Normal","whole lung",NA,NA,"GSE157157",2969
+"659","GSM4756816","Normal","whole lung",NA,NA,"GSE157157",2347
+"660","GSM4756817","Normal","whole lung",NA,NA,"GSE157157",743
+"661","GSM4756818","Normal","whole lung",NA,NA,"GSE157157",1835
+"662","GSM4756819","PAIVS","whole lung",NA,NA,"GSE157157",4412
+"663","GSM4756820","PAIVS","whole lung",NA,NA,"GSE157157",1801
+"664","GSM4756821","PAIVS","whole lung",NA,NA,"GSE157157",548
+"665","GSM4756822","PAIVS","whole lung",NA,NA,"GSE157157",954
+"666","GSM4756823","PAIVS","whole lung",NA,NA,"GSE157157",1072
+"667","GSM4756824","PAIVS","whole lung",NA,NA,"GSE157157",1852
+"668","GSM3425686","Normal","whole lung",65,"M","GSE121080",2671
+"669","GSM3425687","Normal","whole lung",65,"M","GSE121080",2131
+"670","GSM3425692","Normal","whole lung",52,"M","GSE121080",5133
+"671","GSM3425693","Normal","whole lung",52,"M","GSE121080",4091
+"672","GSM3502715","Normal","small airway epithelium (SAE)",36,"F","GSE123405",639
+"673","GSM3502716","Normal","small airway epithelium (SAE)",21,"F","GSE123405",1189
+"674","GSM3502717","Normal","small airway epithelium (SAE)",22,"F","GSE123405",717
+"675","GSM3502718","Normal","small airway epithelium (SAE)",57,"M","GSE123405",684
+"676","GSM3502719","Normal","small airway epithelium (SAE)",39,"M","GSE123405",263
+"677","GSM3502720","Normal","small airway epithelium (SAE)",30,"M","GSE123405",940
+"678","GSM3539242","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",43
+"679","GSM3539243","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",69
+"680","GSM3539244","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",77
+"681","GSM3539245","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",82
+"682","GSM3539246","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",90
+"683","GSM3539247","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",91
+"684","GSM3539248","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",93
+"685","GSM3539249","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",93
+"686","GSM3539250","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",94
+"687","GSM3539251","lung transplantation","BALF from lung transplantation",NA,NA,"GSE124675",96
+"688","GSM3589406","Normal","whole lung",NA,NA,"GSE126030",2669
+"689","GSM3589407","Normal","whole lung",NA,NA,"GSE126030",2130
+"690","GSM5359855","COVID-19","BAL",NA,NA,"GSE176201",5679
+"691","GSM5359857","COVID-19","BAL",NA,NA,"GSE176201",5938
+"692","GSM5359858","COVID-19","BAL",NA,NA,"GSE176201",5968
+"693","GSM5359859","COVID-19","BAL",NA,NA,"GSE176201",6433
+"694","GSM5359860","COVID-19","BAL",NA,NA,"GSE176201",10333
+"695","GSM5359861","COVID-19","BAL",NA,NA,"GSE176201",11923
+"696","GSM5359867","Normal","BAL",NA,NA,"GSE176201",6823
+"697","GSM5359868","Normal","BAL",NA,NA,"GSE176201",8517
+"698","GSM4186956","SCLC","lung tumor",NA,NA,"GSE148071",5689
+"699","GSM4186957","SCLC","lung tumor",NA,NA,"GSE148071",5992
+"700","GSM4186958","SCLC","lung tumor",NA,NA,"GSE148071",5630
+"701","GSM4186959","SCLC","lung tumor",NA,NA,"GSE148071",3578
+"702","GSM4186960","SCLC","lung tumor",NA,NA,"GSE148071",12097
+"703","GSM4983790","pleuropulmonary blastoma(PPB)","lung tumor",2,"F","GSE163678",10411
+"704","GSM5219674","LUAD","whole lung",NA,NA,"GSE171145",880
+"705","GSM5219675","LUAD","whole lung",NA,NA,"GSE171145",407
+"706","GSM5219676","LUAD","whole lung",NA,NA,"GSE171145",1308
+"707","GSM5219677","LUAD","whole lung",NA,NA,"GSE171145",1439
+"708","GSM5219678","LUAD","whole lung",NA,NA,"GSE171145",2353
+"709","GSM5219679","LUAD","whole lung",NA,NA,"GSE171145",528
+"710","GSM5219680","LUAD","whole lung",NA,NA,"GSE171145",2843
+"711","GSM5219681","LUAD","whole lung",NA,NA,"GSE171145",705
+"712","GSM5219682","LUAD","whole lung",NA,NA,"GSE171145",1073
